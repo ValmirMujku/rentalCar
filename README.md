@@ -30,7 +30,7 @@
  
   <li>NodeJs
   <ol>
-   <li>Exprexx</li>
+   <li>Express</li>
    <li>Passpors</li>
    <li>Google Auth</li>
    <li>PDF & QRC</li>
